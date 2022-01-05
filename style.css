@@ -42,13 +42,13 @@
     text-align: center;
     background-image: linear-gradient(to right, red,yellow,red);
     font-size: 1.2rem;
-    margin-top: 20px;
+    margin:20px 0px;
     padding-bottom: 5px;
 }
 .advance{
     border: 2px solid black;
     display: flex;
-    background-image: radial-gradient(rgb(65, 65, 242) 0% 20%, blue 20% 60%, green 95% 100%);
+    background-image: radial-gradient(blue 0% 60%, green 95% 100%);
     justify-content: space-around;
     padding: 100px 0px;
 }
